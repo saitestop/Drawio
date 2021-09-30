@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T03:10:35.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.3.5" etag="wrGoT6HWnGwzIwp9EbSn" type="github"><diagram id="WeTCNPOaoMbMxlxo6ulq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-30T06:12:37.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="hUBuL0gy0VpqvUG0zXra" version="15.3.5" type="github">
+  <diagram id="WeTCNPOaoMbMxlxo6ulq" name="Page-1">
+    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="loqcc4WVpQHxOD-oubMv-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="loqcc4WVpQHxOD-oubMv-1" target="loqcc4WVpQHxOD-oubMv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loqcc4WVpQHxOD-oubMv-1" value="接受需求&lt;br&gt;创建新版本" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loqcc4WVpQHxOD-oubMv-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="loqcc4WVpQHxOD-oubMv-19" target="loqcc4WVpQHxOD-oubMv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loqcc4WVpQHxOD-oubMv-19" value="完成功能开发&lt;br&gt;输出aar(sdk)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loqcc4WVpQHxOD-oubMv-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="loqcc4WVpQHxOD-oubMv-21" target="loqcc4WVpQHxOD-oubMv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loqcc4WVpQHxOD-oubMv-21" value="将aar进行接入&lt;br&gt;(集成到测试demo)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loqcc4WVpQHxOD-oubMv-26" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="loqcc4WVpQHxOD-oubMv-23" target="loqcc4WVpQHxOD-oubMv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loqcc4WVpQHxOD-oubMv-23" value="将demo提供到&lt;br&gt;测试进行测试" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loqcc4WVpQHxOD-oubMv-25" value="测试完成&lt;br&gt;将aar和相关说明&lt;br&gt;整理为zip对外输出" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
