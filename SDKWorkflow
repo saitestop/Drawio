@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T07:15:51.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ihbarzaesOFYhxN_K9Tm" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T10:16:31.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="WNz8mEDij5KWBlznO77z" version="15.6.8" type="github">
   <diagram id="WeTCNPOaoMbMxlxo6ulq" name="Page-1">
-    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1376" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
             <mxPoint x="440" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8C-nyMRMHPidi8tj0oia-25" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Android支持库&lt;br&gt;appcompat&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="8C-nyMRMHPidi8tj0oia-25" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Android支持库&lt;br&gt;appcompat&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="320" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8C-nyMRMHPidi8tj0oia-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.925;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8C-nyMRMHPidi8tj0oia-25" target="8C-nyMRMHPidi8tj0oia-13" edge="1">
@@ -130,13 +130,130 @@
             <mxPoint x="514" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PnRZsu0fiBlPetyFN5vl-14" value="Android支持库约束布局&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;constraintlayout&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-14" value="Android支持库约束布局&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;constraintlayout&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="1180" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PnRZsu0fiBlPetyFN5vl-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#3399FF;" edge="1" parent="1" source="PnRZsu0fiBlPetyFN5vl-14" target="8C-nyMRMHPidi8tj0oia-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="349" y="1370" as="sourcePoint" />
             <mxPoint x="100" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-16" value="cmge_alogic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-17" value="cmge_plugin_point" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1049" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-25" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Android支持库&lt;br&gt;appcompat&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#9AC7BF;" edge="1" parent="1" source="PnRZsu0fiBlPetyFN5vl-25" target="PnRZsu0fiBlPetyFN5vl-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1304" y="1186" as="sourcePoint" />
+            <mxPoint x="910" y="1201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-31" value="&lt;div&gt;qq,微信，手机一键和oaid&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;open_sdk_r6008_lite.jar&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;wechat-sdk-android-with-mta.jar&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;phoneNumber-L-AuthSDK-2.11.1.1.aar&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;msa_mdid_1.0.13.aar&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#3399FF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1160" width="217" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-32" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0.531;exitY=-0.027;exitDx=0;exitDy=0;entryX=0.867;entryY=1.05;entryDx=0;entryDy=0;strokeColor=#3399FF;dashed=1;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="PnRZsu0fiBlPetyFN5vl-31" target="PnRZsu0fiBlPetyFN5vl-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270" y="1201" as="sourcePoint" />
+            <mxPoint x="1264" y="1106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-33" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;广点通，头条，快手，uc和埋点库&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;libs/GDTActionSDK.min.1.6.5.aar&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;libs/humesdk-1.0.0.aar&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;libs/monitorsdk-1.0.6.aar&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;libs/sdk_gism-1.3.2.aar&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;libs/RangersAppLog-Lite-cn-5.3.0.aar&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;libs/JTLYAnalytics_202110251416.aar&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#3399FF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1260" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;strokeColor=#3399FF;dashed=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PnRZsu0fiBlPetyFN5vl-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1283" y="1352" as="sourcePoint" />
+            <mxPoint x="1140" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-35" value="&lt;span style=&quot;font-size: 11px&quot;&gt;js交互&lt;br&gt;libs/DSBridge_Android3.0.jar&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1340" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" edge="1" parent="1" source="PnRZsu0fiBlPetyFN5vl-35" target="PnRZsu0fiBlPetyFN5vl-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1129" y="1446" as="sourcePoint" />
+            <mxPoint x="880" y="1106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-37" value="Android支持库约束布局&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;constraintlayout&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1270" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#9AC7BF;" edge="1" parent="1" source="PnRZsu0fiBlPetyFN5vl-37" target="PnRZsu0fiBlPetyFN5vl-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1109" y="1496" as="sourcePoint" />
+            <mxPoint x="910" y="1106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-39" value="对外" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="770" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-40" value="无代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="449" y="900" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-41" value="gradle自动依赖非单aar包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1089" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-42" value="gradle自动依赖非单aar包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1160" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-44" value="&lt;font style=&quot;font-size: 11px&quot;&gt;cmge_Login&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-45" value="&lt;font style=&quot;font-size: 11px&quot;&gt;cmge_pay&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-53" value="cmge_base_lib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1049" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-57" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;支付依赖库&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;api &#39;com.android.billingclient:billing:3.0.2&#39;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#3399FF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1080" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-59" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0.182;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#3399FF;dashed=1;exitPerimeter=0;" edge="1" parent="1" source="PnRZsu0fiBlPetyFN5vl-57" target="PnRZsu0fiBlPetyFN5vl-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1176.75" y="1171" as="sourcePoint" />
+            <mxPoint x="1177.04" y="1008.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-61" value="cmge_ui" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-62" value="cmge_api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-18" value="&lt;font style=&quot;font-size: 11px&quot;&gt;cmge_plugin_antiaddiction&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-64" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnRZsu0fiBlPetyFN5vl-53" target="PnRZsu0fiBlPetyFN5vl-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="1080" as="sourcePoint" />
+            <mxPoint x="1170" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-66" value="no_cmge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-67" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;entryX=0.567;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PnRZsu0fiBlPetyFN5vl-18" target="PnRZsu0fiBlPetyFN5vl-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="940" as="sourcePoint" />
+            <mxPoint x="1020" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-68" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PnRZsu0fiBlPetyFN5vl-18" target="PnRZsu0fiBlPetyFN5vl-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="950" as="sourcePoint" />
+            <mxPoint x="1008.04" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-69" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PnRZsu0fiBlPetyFN5vl-44" target="PnRZsu0fiBlPetyFN5vl-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="940" as="sourcePoint" />
+            <mxPoint x="1170" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
