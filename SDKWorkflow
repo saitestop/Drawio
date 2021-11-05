@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T07:30:50.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="4tcHa63W3twUpVovMBaR" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T11:03:48.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="rWniqEKcEvGEo5ujsdAb" version="15.6.8" type="github">
   <diagram id="WeTCNPOaoMbMxlxo6ulq" name="Page-1">
-    <mxGraphModel dx="1376" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,28 +11,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="loqcc4WVpQHxOD-oubMv-1" value="接受需求&lt;br&gt;创建新版本" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loqcc4WVpQHxOD-oubMv-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="loqcc4WVpQHxOD-oubMv-19" target="loqcc4WVpQHxOD-oubMv-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="loqcc4WVpQHxOD-oubMv-19" value="完成功能开发&lt;br&gt;输出aar(sdk)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="loqcc4WVpQHxOD-oubMv-19" value="完成功能开发&lt;br&gt;输出aar(sdk)&lt;br&gt;提交代码" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loqcc4WVpQHxOD-oubMv-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="loqcc4WVpQHxOD-oubMv-21" target="loqcc4WVpQHxOD-oubMv-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="loqcc4WVpQHxOD-oubMv-21" value="将aar进行接入&lt;br&gt;(集成到测试demo)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loqcc4WVpQHxOD-oubMv-26" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="loqcc4WVpQHxOD-oubMv-23" target="loqcc4WVpQHxOD-oubMv-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="loqcc4WVpQHxOD-oubMv-23" value="将demo提供到&lt;br&gt;测试进行测试" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loqcc4WVpQHxOD-oubMv-25" value="测试完成&lt;br&gt;将aar和相关说明&lt;br&gt;整理为zip对外输出" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8C-nyMRMHPidi8tj0oia-10" value="cmge_alogic" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="790" width="120" height="60" as="geometry" />
@@ -260,6 +260,51 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1679" y="1397" as="sourcePoint" />
             <mxPoint x="1710" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-82" value="接受需求&lt;br&gt;创建新版本" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="358" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-83" value="demo依赖&lt;br&gt;项目工程" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="358" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-84" value="将demo提供到&lt;br&gt;测试进行测试" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="358" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-85" value="测试完成&lt;br&gt;输出aar(sdk)&lt;br&gt;提交代码" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="358" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-86" value="将aar和相关说明&lt;br&gt;整理为zip对外输出" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="358" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-87" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417.58000000000004" y="110" as="sourcePoint" />
+            <mxPoint x="417.58000000000004" y="174.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-88" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417.58000000000004" y="250" as="sourcePoint" />
+            <mxPoint x="417.58000000000004" y="314.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-89" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417.58000000000004" y="390.0000000000001" as="sourcePoint" />
+            <mxPoint x="417.58000000000004" y="454.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-90" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417.58000000000004" y="530.0000000000001" as="sourcePoint" />
+            <mxPoint x="417.58000000000004" y="594.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnRZsu0fiBlPetyFN5vl-91" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="290" as="sourcePoint" />
+            <mxPoint x="640" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
