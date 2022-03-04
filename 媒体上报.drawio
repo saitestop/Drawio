@@ -1,1 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T08:32:23.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.5" etag="zfnR_RvwR4XBX77h0ew9" type="github"><diagram id="n6cIwmBQYn8KyJO8sayK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-04T08:35:46.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="BPKWhO0zXYrhy_sFsn_p" version="16.6.5" type="github">
+  <diagram id="n6cIwmBQYn8KyJO8sayK" name="Page-1">
+    <mxGraphModel dx="1363" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zPm5v1zgl-SZielq5svK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zPm5v1zgl-SZielq5svK-1" target="zPm5v1zgl-SZielq5svK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPm5v1zgl-SZielq5svK-1" target="zPm5v1zgl-SZielq5svK-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-1" value="上报到媒体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zPm5v1zgl-SZielq5svK-2" target="zPm5v1zgl-SZielq5svK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-2" value="事件触发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-4" value="同时上报到中台，&lt;br&gt;带上了媒体的参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-8" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zPm5v1zgl-SZielq5svK-11" target="zPm5v1zgl-SZielq5svK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPm5v1zgl-SZielq5svK-11" target="zPm5v1zgl-SZielq5svK-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-11" value="上报到埋点库，&lt;br&gt;媒体的参数？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zPm5v1zgl-SZielq5svK-13" target="zPm5v1zgl-SZielq5svK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-13" value="事件触发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-14" value="同时上报到媒体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPm5v1zgl-SZielq5svK-15" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
