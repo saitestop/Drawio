@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T10:56:49.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="buDpyoIGPnQTmXFNqqO9" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T11:04:00.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="V03AoX5kBJbsituJ2ucF" version="16.6.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2187" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,8 +262,8 @@
         <mxCell id="KKXeev9WF8frhIr5QQyk-12" value="参数就是&amp;nbsp;OAuth 2.0 客户端 ID&lt;br&gt;每个专案限制36个" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-530" y="-960" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-13" value="&lt;span&gt;本地SHA1&amp;nbsp; 和&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;google SHA1 不一样&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-400" y="-870" width="210" height="20" as="geometry" />
+        <mxCell id="KKXeev9WF8frhIr5QQyk-13" value="&lt;span&gt;本地SHA1&amp;nbsp; 和&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;google SHA1 不一样&lt;br&gt;包名或者SHA1不同情况下，需要生成一个新的参数&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-410" y="-740" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
