@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T02:29:50.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="9GrmBJf8hXSBTTm6OPXL" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T06:35:26.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="cOjNEsbfB1TcOCe5WZVh" version="17.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2187" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,35 +216,35 @@
         <mxCell id="JOjSNyH2Hw5vAPHBL3Yq-65" value="&lt;span&gt;拉起第三方授权&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="474" y="760" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKXeev9WF8frhIr5QQyk-6" target="KKXeev9WF8frhIr5QQyk-1">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKXeev9WF8frhIr5QQyk-6" target="KKXeev9WF8frhIr5QQyk-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-590" y="-920" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-0" value="APK&lt;br&gt;本地SHA1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-0" value="APK&lt;br&gt;本地SHA1" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-650" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-1" value="手机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-1" value="手机" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-650" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKXeev9WF8frhIr5QQyk-2" target="KKXeev9WF8frhIr5QQyk-3">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKXeev9WF8frhIr5QQyk-2" target="KKXeev9WF8frhIr5QQyk-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-2" value="aab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-2" value="aab" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-230" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKXeev9WF8frhIr5QQyk-3" target="KKXeev9WF8frhIr5QQyk-1">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKXeev9WF8frhIr5QQyk-3" target="KKXeev9WF8frhIr5QQyk-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-3" value="google play下载包&lt;br&gt;google SHA1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-3" value="google play下载包&lt;br&gt;google SHA1" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-230" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-6" value="安装" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-6" value="安装" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-610" y="-940" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKXeev9WF8frhIr5QQyk-0" target="KKXeev9WF8frhIr5QQyk-6">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKXeev9WF8frhIr5QQyk-0" target="KKXeev9WF8frhIr5QQyk-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-590" y="-1020" as="sourcePoint" />
             <mxPoint x="-590" y="-830" as="targetPoint" />
@@ -253,17 +253,63 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-10" value="google登录需要&lt;br&gt;参数&lt;br&gt;包名&lt;br&gt;SHA1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-10" value="google登录需要&lt;br&gt;参数&lt;br&gt;包名&lt;br&gt;SHA1" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-530" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-11" value="google登录需要&lt;br&gt;参数&lt;br&gt;包名&lt;br&gt;SHA1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-11" value="google登录需要&lt;br&gt;参数&lt;br&gt;包名&lt;br&gt;SHA1" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-110" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-12" value="参数就是&amp;nbsp;OAuth 2.0 客户端 ID&lt;br&gt;每个专案限制36个" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-12" value="参数就是&amp;nbsp;OAuth 2.0 客户端 ID&lt;br&gt;每个专案限制36个" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-540" y="-990" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KKXeev9WF8frhIr5QQyk-13" value="&lt;span&gt;本地SHA1&amp;nbsp; 和&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;google SHA1 不一样&lt;br&gt;包名或者SHA1不同情况下，需要生成一个新的参数&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KKXeev9WF8frhIr5QQyk-13" value="&lt;span&gt;本地SHA1&amp;nbsp; 和&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;google SHA1 不一样&lt;br&gt;包名或者SHA1不同情况下，需要生成一个新的参数&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-410" y="-740" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C141bJPONEXLKHuDQMLV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C141bJPONEXLKHuDQMLV-8" target="C141bJPONEXLKHuDQMLV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-590" y="-450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C141bJPONEXLKHuDQMLV-2" value="APK&lt;br&gt;本地SHA1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-650" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C141bJPONEXLKHuDQMLV-3" value="手机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-650" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C141bJPONEXLKHuDQMLV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C141bJPONEXLKHuDQMLV-5" target="C141bJPONEXLKHuDQMLV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C141bJPONEXLKHuDQMLV-5" value="aab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-230" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C141bJPONEXLKHuDQMLV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C141bJPONEXLKHuDQMLV-7" target="C141bJPONEXLKHuDQMLV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C141bJPONEXLKHuDQMLV-7" value="google play下载包&lt;br&gt;google SHA1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-230" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C141bJPONEXLKHuDQMLV-8" value="安装" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-610" y="-470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C141bJPONEXLKHuDQMLV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C141bJPONEXLKHuDQMLV-2" target="C141bJPONEXLKHuDQMLV-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-590" y="-550" as="sourcePoint" />
+            <mxPoint x="-590" y="-360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-590" y="-450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C141bJPONEXLKHuDQMLV-10" value="facebook登录需要&lt;br&gt;参数&lt;br&gt;包名&lt;br&gt;SHA1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-530" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C141bJPONEXLKHuDQMLV-11" value="facebook登录需要&lt;br&gt;参数&lt;br&gt;包名&lt;br&gt;SHA1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C141bJPONEXLKHuDQMLV-13" value="&lt;span&gt;本地SHA1&amp;nbsp; 和&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;google SHA1 不一样&lt;br&gt;包名或者SHA1不同情况下，需要生成一个新的参数&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-410" y="-270" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
